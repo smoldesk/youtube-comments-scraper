@@ -1,5 +1,7 @@
 # YouTube Comments Scraper
 
+![YouTube Comments Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/youtube-comments/banner.webp)
+
 Scrape YouTube comments and replies from video URLs, a channel's latest videos, playlists or a keyword search. No API key, no quota, no login. Runs on [Apify](https://apify.com/smoldesk/youtube-comments-scraper).
 
 ## What you get
