@@ -95,4 +95,4 @@ Add the brand name to `searchQueries`. The Actor takes the top `maxResults` vide
 
 ## More scrapers
 
-YouTube Comments is one of 17 no-login scrapers by Smoldesk Studios. For videos and channel profiles see [YouTube Scraper](https://github.com/smoldesk/youtube-scraper) and [YouTube Channel Scraper](https://github.com/smoldesk/youtube-channel-scraper). Full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+YouTube Comments is one of 18 no-login scrapers by Smoldesk Studios. For videos and channel profiles see [YouTube Scraper](https://github.com/smoldesk/youtube-scraper) and [YouTube Channel Scraper](https://github.com/smoldesk/youtube-channel-scraper). Full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
