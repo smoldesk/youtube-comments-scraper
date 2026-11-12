@@ -7,7 +7,7 @@ Scrape YouTube comments and replies from video URLs, a channel's latest videos, 
 ## What you get
 
 - **Comments and replies**: full text, author name and channel, likes, reply count, pinned, hearted and by-the-creator flags, approximate date.
-- **Many sources in one run**: video or Shorts URLs, `@handles` (comments on the latest videos), playlists, and search terms (comments on the top videos for a keyword).
+- **Many sources in one run**: video or Shorts URLs, `@handles` (comments on the latest, most popular or oldest videos, with `channelSortBy`), playlists, and search terms (comments on the top videos for a keyword).
 - **Top or newest first**, with a per-video cap and replies per comment.
 - **`sourceInput` on every comment**, so one run can watch many brands or channels.
 - **Pay only for comments**: opening the videos is free.
